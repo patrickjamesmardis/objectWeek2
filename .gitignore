@@ -69,15 +69,4 @@ node_modules/
 .firebaserc
 firebase.json
 .vscode/settings.json
-._sketch1.pde
-._sketch1_1.png
-._sketch1_2.png
-._sketch1
-._sketch1_1.gif
-._sketch1_2.gif
-._.DS_Store
-._nums.txt
-._sketch2
-._sketch2.pde
-._sketch2_1.gif
-._sketch2_2.gif
+._*
