@@ -4,7 +4,6 @@ void setup() {
   size(800, 800);
   background(#FF5A36);
   lines = loadStrings("nums.txt");
-  frameRate(5);
 }
 
 void draw() {
