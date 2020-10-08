@@ -26,5 +26,4 @@ void draw() {
 }
 ```
 
-![Sketch 3 gif](/documentationAssets/sketch3_1.gif)
 ![Sketch 3 gif](/documentationAssets/sketch3_2.gif)

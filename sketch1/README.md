@@ -22,6 +22,4 @@ void draw() {
   }
 }
 ```
-
-![Sketch 1 gif](/documentationAssets/sketch1_1.gif)
 ![Sketch 1 gif](/documentationAssets/sketch1_2.gif)
