@@ -2,9 +2,6 @@
 
 **[process.patrickjam.es/](https://process.patrickjam.es/2020/09/08/week-2-input-from-stored-values/)**
 
-![Sketch 1 gif](/documentationAssets/sketch1_1.gif)
-![Sketch 1 gif](/documentationAssets/sketch1_2.gif)
-
 ```processing
 String[] lines;
 int i = 0;
@@ -25,3 +22,6 @@ void draw() {
   }
 }
 ```
+
+![Sketch 1 gif](/documentationAssets/sketch1_1.gif)
+![Sketch 1 gif](/documentationAssets/sketch1_2.gif)
